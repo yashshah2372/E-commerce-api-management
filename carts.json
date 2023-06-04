@@ -1,0 +1,31 @@
+{
+    "1234567890": {
+        "1234567891": {
+            "Quantity": 6,
+            "total_value": 3998,
+            "product_name": "MacBook Pro 14"
+        },
+        "9876543211": {
+            "Quantity": 2,
+            "total_value": 1998,
+            "product_name": "Dell XPS 13,"
+        }
+    },
+    "9876543210": {
+        "9876543211": {
+            "Quantity": 2,
+            "total_value": 1998,
+            "product_name": "Dell XPS 13,"
+        },
+        "1234567892": {
+            "Quantity": 5,
+            "total_value": 2995,
+            "product_name": "Acer Aspire 5"
+        },
+        "9876543210": {
+            "Quantity": 2,
+            "total_value": 2398,
+            "product_name": "Samsung Galaxy S22 Ultra"
+        }
+    }
+}
